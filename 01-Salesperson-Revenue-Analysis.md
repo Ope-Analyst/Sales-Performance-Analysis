@@ -6,11 +6,11 @@ Which salesperson contributes the most to the company's net revenue, and how doe
 
 ### SQL Query
 
-![Business Question 1 SQL Query](Images/BQ1-Salesperson-Revenue-Analysis-Query.png)
+![Business Question 1 SQL Query](Images/BQ1-Salesperson-Revenue-Performance-Query.png)
 
 ### Query Result
 
-![Business Question 1 Result](Images/BQ1-Salesperson-Revenue-Analysis-Result.png)
+![Business Question 1 Result](Images/BQ1-Salesperson-Revenue-Performance-Result.png)
 
 ### Observation 1
 
@@ -25,11 +25,11 @@ How much does each salesperson contribute to their respective region's net reven
 
 ### SQL Query
 
-![Business Question 2 SQL Query](Images/BQ2-Salesperson-Revenue-Analysis-Query.png)
+![Business Question 2 SQL Query](Images/BQ2-Salesperson-Revenue-Performance-Query.png)
 
 ### Query Result
 
-![Business Question 2 Result](Images/BQ2-Salesperson-Revenue-Analysis-Result.png)
+![Business Question 2 Result](Images/BQ2-Salesperson-Revenue-Performance-Result.png)
 
 ### Observation 2
 
