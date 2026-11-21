@@ -34,7 +34,7 @@ Notably, the North region also recorded the highest average annual percentage co
 
 ---
 
-### Conclusion
+### Interpretation
 
 Over the observed years (2023–2025), a lower annual contribution percentage for a region does not necessarily indicate lower regional revenue. Instead, it indicates that the region accounted for a smaller share of the company's total annual revenue for that particular year.
 
