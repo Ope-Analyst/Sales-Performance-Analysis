@@ -1,7 +1,7 @@
 # 5. Customer Type – Payment Type Analysis
 
 ## SQL Query
-[View SQL Query](Images/BQ7-Customer-Payment-Performance-Query.png)
+![Customer Payment Performance Query](Images/BQ7-Customer-Payment-Performance-Query.png)
 
 ## Query Result
 ![Customer Payment Performance Result](Images/BQ7-Customer-Payment-Performance-Result.png)
