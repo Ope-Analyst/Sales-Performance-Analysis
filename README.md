@@ -39,7 +39,7 @@ The dataset contains sales transaction records with information covering product
 
 - **MySQL:** Data exploration, transformation, aggregation, business analysis, and SQL-based reporting.
 - **Microsoft Excel:** Initial dataset inspection and preparation.
-- **Microsoft Power BI:** Data visualization, KPI reporting, DAX formulation, and interactive dashboard development.
+- **Power BI:** Data visualization, KPI reporting, DAX formulation, and interactive dashboard development.
 
 ## Data Preparation and Analytical Methodology
 
@@ -173,7 +173,9 @@ The repository contains the following project components:
 
 This project demonstrates how SQL-based analysis can transform raw sales transaction data into meaningful business intelligence.
 
-By examining salesperson performance, customer categories, promotional effectiveness, product performance, regional contributions, and payment methods, the analysis provides a broader understanding of the factors associated with sales and revenue performance.
+The analysis provides a multidimensional assessment of sales performance, highlighting the relationships between revenue generation, sales volume, promotional effectiveness and returned revenue.
+
+For the consolidated interpretation of the findings, see the [Overall Project Conclusion](06-Overall-Project-Conclusion.md).
 
 The integration of SQL and Power BI further demonstrates the process of moving from data preparation and analysis to business reporting and visual communication.
 
