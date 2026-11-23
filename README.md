@@ -155,8 +155,11 @@ The dashboard focuses on three major performance indicators:
 
 It also incorporates analytical visualisations and interactive filters to explore performance across different business dimensions.
 
-### Dashboard Preview
-An interactive Power BI dashboard is currently under development to provide a consolidated visual representation of the analytical findings.
+## Power BI Dashboard Preview
+
+The dashboard provides an interactive overview of sales performance, revenue trends, product performance, and other key business metrics.
+
+![Power BI Sales Performance Dashboard](Images/Power-BI-Sales-Dashboard.png)
 
 ## Project Deliverables
 
