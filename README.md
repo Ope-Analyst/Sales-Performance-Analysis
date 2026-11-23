@@ -143,6 +143,11 @@ Evaluating payment method performance within Wholesale and Retailer categories, 
 - Within the Retailer category, Gift Card recorded the highest net revenue, supported by high total revenue and comparatively lower return losses.
 - Within the Wholesale category, Online payment recorded the highest net revenue, total revenue, and sales volume.
 
+## Detailed Analysis
+The complete analytical documentation, including business questions, SQL queries, query results, observations, interpretations and overall project conclusions, is provided below.
+
+[View Detailed Analysis](Analysis-Index.md)
+
 ## Power BI Dashboard
 
 The SQL findings are being translated into an interactive Power BI dashboard to provide a consolidated view of sales performance.
